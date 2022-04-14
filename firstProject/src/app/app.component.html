@@ -1,0 +1,8 @@
+<div>
+  <!-- non lasciare spazi tra le parentesi sennò non effettua il binding!!!-->
+  Il nome del progetto è: {{title}}
+</div>
+
+<!--Sarebbe componente padre e componente figlio-->
+<app-material-toolbar *ngIf="isHide"></app-material-toolbar>
+<app-spinner *ngIf="!isHide"></app-spinner>

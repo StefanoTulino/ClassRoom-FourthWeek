@@ -1,0 +1,43 @@
+{
+  "devices": [
+    {
+      "label": "One Plus 8",
+      "os": "android",
+      "price": 750,
+      "rate": 3,
+      "memory": 7400,
+      "desc": "One Plus 5 is a flagship phone...",
+      "id": 2
+    },
+    {
+      "label": "IPhone 7 +",
+      "os": "ios",
+      "price": 700,
+      "rate": 3,
+      "memory": 3000,
+      "desc": "",
+      "id": 24
+    },
+    {
+      "label": "s22",
+      "price": 324,
+      "os": "android",
+      "id": 26
+    },
+    {
+      "label": "s21",
+      "price": 650,
+      "os": "others",
+      "id": 27
+    },
+    {
+      "label": "iphone10",
+      "price": 850,
+      "os": "android",
+      "id": 28
+    }
+  ],
+  "login": {
+    "token": "efoiwejo32r32-fake-token"
+  }
+}
